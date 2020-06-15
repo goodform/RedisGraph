@@ -1,8 +1,8 @@
-display_name: redisgraph
-author: RedisLabs
-email: roi@redislabs.com
+display_name: RedisGraph
+author: goodform
+email: freeandopenredismodules@gmail.com
 description: A graph database on top of Redis which supports Open-Cypher query language.
-homepage: http://redisgraph.io
+homepage: https://github.com/goodform/RediSearch
 license: AGPLv3
 command_line_args: ""
 min_redis_version: "4.0"

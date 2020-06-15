@@ -14,7 +14,7 @@ Primary features:
 * Nodes and edges can be labeled
 * Supports [openCypher](http://www.opencypher.org/) graph queries
 
-To see Redis Graph in action see [Demos](https://github.com/RedisLabsModules/redis-module-graph/tree/master/demo).
+To see Redis Graph in action see [Demos](https://github.com/goodform/RedisGraph/tree/master/demo).
 
 ## Quickstart
 
@@ -28,7 +28,7 @@ To see Redis Graph in action see [Demos](https://github.com/RedisLabsModules/red
 
 Requirements:
 
-* The Redis Graph repository: `git clone https://github.com/RedisLabsModules/redis-graph.git`
+* The Redis Graph repository: `git clone https://github.com/goodform/RedisGraph.git`
 * The build-essential and cmake packages: `apt-get install build-essential cmake`
 
 To build the module, run `make` in the project's directory

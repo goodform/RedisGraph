@@ -9,10 +9,10 @@ package: all
 .PHONY: package
 
 docker:
-	docker build . -t redislabs/redisgraph
+	docker build . -t goodform/redisgraph
 
 docker_push: docker
-	docker push redislabs/redisgraph:latest
+	docker push goodform/redisgraph:latest
 
 builddocs:
 	mkdocs build
